@@ -1,0 +1,66 @@
+Name	asian
+height	160
+weight	60
+hair	black	brown
+eye	brown	green
+skin	beige	tan	pale
+Name	african
+height	170
+weight	70
+hair	black	brown
+eye	brown	green
+skin	tan	brown 	ebony
+Name	nordic
+height	175
+weight	75
+hair	blonde	brown	red	ashen
+eye	blue	green	brown
+skin	pale	beige
+Name	slavic
+height	172
+weight	72
+hair	brown	black	ashen	blonde
+eye	brown	blue	green
+skin	pale	beige
+Name	british
+height	170
+weight	70
+hair	brown	blonde	ashen	red
+eye	brown	green	gray	blue
+skin	pale	beige
+Name	greek
+height	168
+weight	68
+hair	brown	black	blonde
+eye	brown	green	blue
+skin	tan	brown 	pale	beige
+Name	latin
+height	165
+weight	65
+hair	brown	black
+eye	brown	green
+skin	tan 	brown 	beige	pale
+Name	european
+height	170
+weight	70
+hair	ashen	brown 	red	black	blonde
+eye	brown	blue	green	gray
+skin	tan	beige	pale
+Name	carribean
+height	165
+weight	65
+hair	brown	black
+eye	brown	green
+skin	tan	beige	brown
+Name	australian
+height	170
+weight	70
+hair	brown	blonde	ashen	red
+eye	brown	green	gray	blue
+skin	tan	beige	pale
+Name	japanese
+height	162
+weight	62
+hair	black	brown 	ashen
+eye	brown	green	gray
+skin	beige	pale

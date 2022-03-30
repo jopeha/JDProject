@@ -1,0 +1,5 @@
+slim,thin,scrawny,slender,stringy,weak,bony,delicate,anorexic,skeletal
+lanky@height+20,athletic,muscular,slim,toned,fit
+sturdy,muscular,husky,strapping@height+10,ripped,chubby,round,plump,stout,tubby
+fat,bulky,potbellied,swollen,herculean@WHEIGHT*1.1,ripped,hulky,beefy,obese
+mammoth@WHEIGHT+20@WHEIGHT*1.1,morbidly obese,colossal@WHEIGHT+10@WHEIGHT*1.25,whalelike@weight*1.2
